@@ -1,0 +1,51 @@
+body{
+    
+    background-image:url(/home/abdallah/images/second/images/africa.jpg);
+    background-blend-mode:50px;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    height:100vh;
+    align-items: center;
+    align-content: center;
+    text-align: center;
+    opacity:100px;
+}
+form {
+    width: 300px;
+}
+.col-lg-6{
+    margin: auto;
+}
+.row{
+    margin: auto;
+}
+p{
+    color:white;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: peru;
+}
+h1{
+    position: absolute;
+    left: 35%;
+    text-size-adjust:5px;
+    color: green;
+    font-family: cursive;
+
+}
+label{
+    background-color: khaki;
+}
+
+input type{
+    background-color: khaki;
+}
+
+footer{
+    color: lightgoldenrodyellow;
+
+}
+hi{
+    color: green;
+}
+
