@@ -2,7 +2,8 @@
 
 ## This is a magical enthusiast that can calculate your birthday dates and give you a ghanian name depending on the day of the week.
 ### Written by Abdallah Adam,a student at Moringa School doing software development.
-### For now you neet Github to open up the link.
+### For now you need Github to open up the link.
+##<img src ="/home/abdallah/images/second/images/srr.png">
 ### Technology used not that much but its creted through HTML with the help of other elements like Java Script.
 ### For more infimation you can halla at me on 0774308882 or mail khalizatelli@gmail.com.
 ### Copyright 2019 Abdallah Adam
